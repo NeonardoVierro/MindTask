@@ -1,0 +1,40 @@
+name: todo_list_app
+description: "Aplikasi Todo List dengan Firebase"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.9.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Packages
+  firebase_core: ^2.28.0
+  firebase_auth: ^4.16.1
+  cloud_firestore: ^4.15.3
+  google_sign_in: ^6.1.5
+  
+  # UI & State Management
+  provider: ^6.1.5+1
+  
+  # Utilities
+  intl: ^0.20.2
+  percent_indicator: ^4.2.5
+  cupertino_icons: ^1.0.8
+  flutter_local_notifications: ^13.0.0
+  timezone: ^0.9.0
+  flutter_native_timezone: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/todo.png
