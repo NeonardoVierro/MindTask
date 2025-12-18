@@ -6,45 +6,30 @@ MindTask tidak hanya mencatat tugas, tetapi juga membantu pengguna memantau prog
 
 🚀 Fitur Utama
 
-🔐 Autentikasi Pengguna (Login & Register dengan Firebase Auth)
-
-📝 Manajemen Tugas (Tambah, Edit, Hapus Todo)
-
-⏰ Deadline & Reminder Otomatis (Notifikasi lokal)
-
-🎯 Prioritas Tugas (Rendah, Sedang, Tinggi)
-
-🏷️ Tag Tugas untuk pengelompokan yang rapi
-
-📊 Statistik & Progress penyelesaian tugas
-
-🔄 Real-time Sync dengan Cloud Firestore
-
-📱 UI Modern & Responsif
+  🔐 Autentikasi Pengguna (Login & Register dengan Firebase Auth)
+  📝 Manajemen Tugas (Tambah, Edit, Hapus Todo)
+  ⏰ Deadline & Reminder Otomatis (Notifikasi lokal)
+  🎯 Prioritas Tugas (Rendah, Sedang, Tinggi)
+  🏷️ Tag Tugas untuk pengelompokan yang rapi
+  📊 Statistik & Progress penyelesaian tugas
+  🔄 Real-time Sync dengan Cloud Firestore
+  📱 UI Modern & Responsif
 
 🛠️ Teknologi yang Digunakan
 
-Flutter (UI & Cross-Platform)
-
-Firebase Authentication
-
-Cloud Firestore
-
-Provider (State Management)
-
-Flutter Local Notifications
-
-Timezone & Intl
+  Flutter (UI & Cross-Platform)
+  Firebase Authentication
+  Cloud Firestore
+  Provider (State Management)
+  Flutter Local Notifications
+  Timezone & Intl
 
 🎯 Tujuan Aplikasi
 
-MindTask dibuat untuk membantu pengguna:
-
-Mengurangi mental load
-
-Meningkatkan kedisiplinan
-
-Mengelola waktu dan prioritas dengan lebih efektif
+  MindTask dibuat untuk membantu pengguna:
+  Mengurangi mental load
+  Meningkatkan kedisiplinan
+  Mengelola waktu dan prioritas dengan lebih efektif
 
 “Clear your mind, focus on what matters.”
 
