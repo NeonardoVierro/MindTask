@@ -1,16 +1,54 @@
-# todolist_app
+🧠 MindTask — Smart Todo & Productivity App
 
-A new Flutter project.
+MindTask adalah aplikasi todo list modern yang dirancang untuk membantu pengguna mengelola tugas dengan lebih terstruktur, fokus, dan produktif. Aplikasi ini dibangun menggunakan Flutter dengan dukungan Firebase untuk autentikasi, penyimpanan data real-time, dan sinkronisasi lintas perangkat.
 
-## Getting Started
+MindTask tidak hanya mencatat tugas, tetapi juga membantu pengguna memantau progres, mengatur prioritas, serta mendapatkan pengingat otomatis agar tidak melewatkan deadline penting.
 
-This project is a starting point for a Flutter application.
+🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+🔐 Autentikasi Pengguna (Login & Register dengan Firebase Auth)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📝 Manajemen Tugas (Tambah, Edit, Hapus Todo)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⏰ Deadline & Reminder Otomatis (Notifikasi lokal)
+
+🎯 Prioritas Tugas (Rendah, Sedang, Tinggi)
+
+🏷️ Tag Tugas untuk pengelompokan yang rapi
+
+📊 Statistik & Progress penyelesaian tugas
+
+🔄 Real-time Sync dengan Cloud Firestore
+
+📱 UI Modern & Responsif
+
+🛠️ Teknologi yang Digunakan
+
+Flutter (UI & Cross-Platform)
+
+Firebase Authentication
+
+Cloud Firestore
+
+Provider (State Management)
+
+Flutter Local Notifications
+
+Timezone & Intl
+
+🎯 Tujuan Aplikasi
+
+MindTask dibuat untuk membantu pengguna:
+
+Mengurangi mental load
+
+Meningkatkan kedisiplinan
+
+Mengelola waktu dan prioritas dengan lebih efektif
+
+“Clear your mind, focus on what matters.”
+
+📌 Status Proyek
+
+🟢 Aktif dikembangkan
+Terbuka untuk pengembangan lanjutan dan kontribusi.
